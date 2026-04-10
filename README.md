@@ -1,4 +1,4 @@
-# ObsidianRightClickMenu
+# Obsidian Right Click Menu
 
 ✨ Add a clean Windows Explorer context menu entry:
 
