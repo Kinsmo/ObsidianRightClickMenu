@@ -8,10 +8,6 @@ Right-click inside any folder → Open in Obsidian
 
 📂 This tool can turn the current folder into an Obsidian vault when needed and open it directly in Obsidian.
 
-🚀 No browser links.  
-🚀 No fragile `obsidian://open?vault=...` handoff.  
-🚀 No manual vault selection in the Vault Manager.
-
 ## 🚀 Overview
 
 When you right-click inside a folder and choose **Open in Obsidian**, the script will:
