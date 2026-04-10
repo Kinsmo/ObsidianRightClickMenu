@@ -163,10 +163,6 @@ This tool intentionally closes and reopens Obsidian when the menu item is used. 
 
 MIT
 
----
-
-## 🇨🇳 中文版
-
 ✨ 为 Windows 资源管理器添加一个简洁好用的右键菜单项：
 
 ```text
