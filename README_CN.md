@@ -8,10 +8,6 @@
 
 📂 这个工具可以在需要时把当前文件夹转换成 Obsidian 仓库（vault），然后直接用 Obsidian 打开。
 
-🚀 不需要浏览器链接。  
-🚀 不需要脆弱的 `obsidian://open?vault=...` 跳转。  
-🚀 不需要手动进入 Vault Manager 再点选仓库。
-
 ## 🚀 功能说明
 
 当你在文件夹空白处右键，并选择 **Open in Obsidian** 时，脚本会自动执行以下步骤：
